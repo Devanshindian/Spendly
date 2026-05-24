@@ -26,3 +26,8 @@
 {"ts":1779641819,"tool":"Bash","pattern":"Bash(trust-mode-auto-approve)","decision":"allow","persisted":true,"tool_class":"bash","tool_family":null,"decision_basis":"trust-mode-allowlist"}
 {"ts":1779641843,"tool":"Bash","pattern":"Bash(trust-mode-auto-approve)","decision":"allow","persisted":true,"tool_class":"bash","tool_family":null,"decision_basis":"trust-mode-allowlist"}
 {"ts":1779641877,"tool":"Bash","pattern":"Bash(trust-mode-auto-approve)","decision":"allow","persisted":true,"tool_class":"bash","tool_family":null,"decision_basis":"trust-mode-allowlist"}
+{"ts":1779641899,"tool":"Bash","pattern":"Bash(trust-mode-auto-approve)","decision":"allow","persisted":true,"tool_class":"bash","tool_family":null,"decision_basis":"trust-mode-allowlist"}
+{"ts":1779642424,"tool":"Bash","pattern":"Bash(trust-mode-auto-approve)","decision":"allow","persisted":true,"tool_class":"bash","tool_family":null,"decision_basis":"trust-mode-allowlist"}
+{"ts":1779642432,"tool":"Bash","pattern":"Bash(trust-mode-auto-approve)","decision":"allow","persisted":true,"tool_class":"bash","tool_family":null,"decision_basis":"trust-mode-allowlist"}
+{"ts":1779642439,"tool":"Bash","pattern":"Bash(trust-mode-auto-approve)","decision":"allow","persisted":true,"tool_class":"bash","tool_family":null,"decision_basis":"trust-mode-allowlist"}
+{"ts":1779642463,"tool":"Bash","pattern":"Bash(trust-mode-auto-approve)","decision":"allow","persisted":true,"tool_class":"bash","tool_family":null,"decision_basis":"trust-mode-allowlist"}

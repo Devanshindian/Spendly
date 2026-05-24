@@ -64,3 +64,9 @@
 {"ts":1779641678,"event":"markers-cleared"}
 {"ts":1779641872,"event":"clearing-with-context","prompt_head":"{\"session_id\":\"6bbf5258-8034-42fd-aef8-033e0bfa0703\",\"transcript_path\":\"/Users/devanshasawa/.claude/projects/-Users-devanshasawa-Desktop-expense-tracker/6bbf5258-8034-42fd-aef8-033e0bfa0703.jsonl\",\"cwd\":\"/Users/devanshasawa/Desktop/expense-tracker\",\"permission_mode\":\"default\",\"hook_event_name\":\"User"}
 {"ts":1779641872,"event":"markers-cleared"}
+{"ts":1779641896,"event":"clearing-with-context","prompt_head":"{\"session_id\":\"6bbf5258-8034-42fd-aef8-033e0bfa0703\",\"transcript_path\":\"/Users/devanshasawa/.claude/projects/-Users-devanshasawa-Desktop-expense-tracker/6bbf5258-8034-42fd-aef8-033e0bfa0703.jsonl\",\"cwd\":\"/Users/devanshasawa/Desktop/expense-tracker\",\"permission_mode\":\"default\",\"hook_event_name\":\"User"}
+{"ts":1779641896,"event":"markers-cleared"}
+{"ts":1779642406,"event":"clearing-with-context","prompt_head":"{\"session_id\":\"6bbf5258-8034-42fd-aef8-033e0bfa0703\",\"transcript_path\":\"/Users/devanshasawa/.claude/projects/-Users-devanshasawa-Desktop-expense-tracker/6bbf5258-8034-42fd-aef8-033e0bfa0703.jsonl\",\"cwd\":\"/Users/devanshasawa/Desktop/expense-tracker\",\"permission_mode\":\"default\",\"hook_event_name\":\"User"}
+{"ts":1779642406,"event":"markers-cleared"}
+{"ts":1779642459,"event":"clearing-with-context","prompt_head":"{\"session_id\":\"6bbf5258-8034-42fd-aef8-033e0bfa0703\",\"transcript_path\":\"/Users/devanshasawa/.claude/projects/-Users-devanshasawa-Desktop-expense-tracker/6bbf5258-8034-42fd-aef8-033e0bfa0703.jsonl\",\"cwd\":\"/Users/devanshasawa/Desktop/expense-tracker\",\"permission_mode\":\"default\",\"hook_event_name\":\"User"}
+{"ts":1779642459,"event":"markers-cleared"}
