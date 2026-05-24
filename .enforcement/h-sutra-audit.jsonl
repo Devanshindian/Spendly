@@ -21,3 +21,6 @@
 {"ts":"2026-05-24T16:36:44Z","session_id":"6bbf5258-8034-42fd-aef8-033e0bfa0703","decision":"pass","first200":"[ASSIST·EXEC · TIMING:sync · CHANNEL:chat · REV:low · RISK:low]","reason":"header_matched"}
 {"ts":"2026-05-24T16:46:38Z","session_id":"6bbf5258-8034-42fd-aef8-033e0bfa0703","decision":"pass","first200":"[EXEC·BUILD · TIMING:sync · CHANNEL:chat · REV:low · RISK:none]","reason":"header_matched"}
 {"ts":"2026-05-24T16:49:21Z","session_id":"6bbf5258-8034-42fd-aef8-033e0bfa0703","decision":"pass","first200":"[EXEC·BUILD · TIMING:sync · CHANNEL:chat · REV:low · RISK:none]","reason":"header_matched"}
+{"ts":"2026-05-24T16:50:07Z","session_id":"6bbf5258-8034-42fd-aef8-033e0bfa0703","decision":"pass","first200":"[EXEC·GIT · TIMING:sync · CHANNEL:chat · REV:low · RISK:low]","reason":"header_matched"}
+{"ts":"2026-05-24T16:50:39Z","session_id":"6bbf5258-8034-42fd-aef8-033e0bfa0703","decision":"pass","first200":"[EXEC·GIT · TIMING:sync · CHANNEL:chat · REV:low · RISK:low]","reason":"header_matched"}
+{"ts":"2026-05-24T16:51:47Z","session_id":"6bbf5258-8034-42fd-aef8-033e0bfa0703","decision":"pass","first200":"[EXEC·BUILD · TIMING:sync · CHANNEL:chat · REV:low · RISK:none]","reason":"header_matched"}
