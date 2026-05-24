@@ -1,3 +1,20 @@
 {"ts":"2026-05-24T10:00:57Z","session_id":"e7382a22-7f37-466a-9d8a-d4c5774cc0b4","decision":"skipped","first200":"","reason":"no_text_in_current_turn"}
 {"ts":"2026-05-24T10:24:03Z","session_id":"e7382a22-7f37-466a-9d8a-d4c5774cc0b4","decision":"block","first200":"Let me read your requirements file first.","reason":"header_missing_layer_fired"}
 {"ts":"2026-05-24T10:24:11Z","session_id":"e7382a22-7f37-466a-9d8a-d4c5774cc0b4","decision":"skipped","first200":"","reason":"stop_hook_active=true"}
+{"ts":"2026-05-24T10:51:39Z","session_id":"e7382a22-7f37-466a-9d8a-d4c5774cc0b4","decision":"pass","first200":"[BUILD·EXECUTE · TIMING:instant · CHANNEL:bash · REV:1 · RISK:low]","reason":"header_matched"}
+{"ts":"2026-05-24T10:58:02Z","session_id":"e7382a22-7f37-466a-9d8a-d4c5774cc0b4","decision":"skipped","first200":"","reason":"no_text_in_current_turn"}
+{"ts":"2026-05-24T11:00:38Z","session_id":"e7382a22-7f37-466a-9d8a-d4c5774cc0b4","decision":"pass","first200":"[EXPLAIN·EDUCATE · TIMING:short · CHANNEL:text · REV:1 · RISK:none]Let me explore the project files first.","reason":"header_matched"}
+{"ts":"2026-05-24T11:06:24Z","session_id":"e7382a22-7f37-466a-9d8a-d4c5774cc0b4","decision":"skipped","first200":"","reason":"no_text_in_current_turn"}
+{"ts":"2026-05-24T11:12:04Z","session_id":"e7382a22-7f37-466a-9d8a-d4c5774cc0b4","decision":"skipped","first200":"","reason":"no_text_in_current_turn"}
+{"ts":"2026-05-24T11:14:43Z","session_id":"2eee327a-0060-42cb-979c-3ad2f810c7dc","decision":"block","first200":"Hey there! 👋 I see you're working on an expense tracker project. How can I assist you today? I can help with:- Understanding the codebase structure- Adding features or fixing bugs- Code review","reason":"header_missing_layer_fired"}
+{"ts":"2026-05-24T11:14:54Z","session_id":"2eee327a-0060-42cb-979c-3ad2f810c7dc","decision":"skipped","first200":"","reason":"stop_hook_active=true"}
+{"ts":"2026-05-24T11:32:18Z","session_id":"972e7b1f-5e67-441e-b640-ab699edb709b","decision":"skipped","first200":"","reason":"no_text_in_current_turn"}
+{"ts":"2026-05-24T11:32:53Z","session_id":"972e7b1f-5e67-441e-b640-ab699edb709b","decision":"skipped","first200":"","reason":"no_text_in_current_turn"}
+{"ts":"2026-05-24T11:33:16Z","session_id":"972e7b1f-5e67-441e-b640-ab699edb709b","decision":"skipped","first200":"","reason":"no_text_in_current_turn"}
+{"ts":"2026-05-24T11:33:37Z","session_id":"972e7b1f-5e67-441e-b640-ab699edb709b","decision":"skipped","first200":"","reason":"no_text_in_current_turn"}
+{"ts":"2026-05-24T11:34:15Z","session_id":"972e7b1f-5e67-441e-b640-ab699edb709b","decision":"skipped","first200":"","reason":"no_text_in_current_turn"}
+{"ts":"2026-05-24T13:33:26Z","session_id":"6bbf5258-8034-42fd-aef8-033e0bfa0703","decision":"block","first200":"**BLUEPRINT**- Task: Add \"Terms and Conditions\" and \"Privacy Policy\" footer links to `templates/base.html`- Output: Two `<a href=\"#\">` elements inside the existing `.footer-inner` div- Verified-by:","reason":"header_missing_layer_fired"}
+{"ts":"2026-05-24T13:45:04Z","session_id":"6bbf5258-8034-42fd-aef8-033e0bfa0703","decision":"block","first200":"Let me revert the footer change right away.","reason":"header_missing_layer_fired"}
+{"ts":"2026-05-24T13:45:21Z","session_id":"6bbf5258-8034-42fd-aef8-033e0bfa0703","decision":"skipped","first200":"","reason":"stop_hook_active=true"}
+{"ts":"2026-05-24T16:29:33Z","session_id":"6bbf5258-8034-42fd-aef8-033e0bfa0703","decision":"pass","first200":"[ASSIST·DIAGNOSE · TIMING:sync · CHANNEL:chat · REV:0 · RISK:low]Let me look at the app structure first.","reason":"header_matched"}
+{"ts":"2026-05-24T16:36:01Z","session_id":"6bbf5258-8034-42fd-aef8-033e0bfa0703","decision":"pass","first200":"[EXEC·BUILD · TIMING:sync · CHANNEL:chat · REV:low · RISK:none]","reason":"header_matched"}
