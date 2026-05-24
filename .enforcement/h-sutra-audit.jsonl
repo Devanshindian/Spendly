@@ -18,3 +18,6 @@
 {"ts":"2026-05-24T13:45:21Z","session_id":"6bbf5258-8034-42fd-aef8-033e0bfa0703","decision":"skipped","first200":"","reason":"stop_hook_active=true"}
 {"ts":"2026-05-24T16:29:33Z","session_id":"6bbf5258-8034-42fd-aef8-033e0bfa0703","decision":"pass","first200":"[ASSIST·DIAGNOSE · TIMING:sync · CHANNEL:chat · REV:0 · RISK:low]Let me look at the app structure first.","reason":"header_matched"}
 {"ts":"2026-05-24T16:36:01Z","session_id":"6bbf5258-8034-42fd-aef8-033e0bfa0703","decision":"pass","first200":"[EXEC·BUILD · TIMING:sync · CHANNEL:chat · REV:low · RISK:none]","reason":"header_matched"}
+{"ts":"2026-05-24T16:36:44Z","session_id":"6bbf5258-8034-42fd-aef8-033e0bfa0703","decision":"pass","first200":"[ASSIST·EXEC · TIMING:sync · CHANNEL:chat · REV:low · RISK:low]","reason":"header_matched"}
+{"ts":"2026-05-24T16:46:38Z","session_id":"6bbf5258-8034-42fd-aef8-033e0bfa0703","decision":"pass","first200":"[EXEC·BUILD · TIMING:sync · CHANNEL:chat · REV:low · RISK:none]","reason":"header_matched"}
+{"ts":"2026-05-24T16:49:21Z","session_id":"6bbf5258-8034-42fd-aef8-033e0bfa0703","decision":"pass","first200":"[EXEC·BUILD · TIMING:sync · CHANNEL:chat · REV:low · RISK:none]","reason":"header_matched"}
