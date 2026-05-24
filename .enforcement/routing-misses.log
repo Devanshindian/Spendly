@@ -1,0 +1,13 @@
+{"ts":1779616765,"event":"clearing-with-context","prompt_head":"{\"session_id\":\"e7382a22-7f37-466a-9d8a-d4c5774cc0b4\",\"transcript_path\":\"/Users/devanshasawa/.claude/projects/-Users-devanshasawa-Desktop-expense-tracker/e7382a22-7f37-466a-9d8a-d4c5774cc0b4.jsonl\",\"cwd\":\"/Users/devanshasawa/Desktop/expense-tracker\",\"permission_mode\":\"default\",\"hook_event_name\":\"User"}
+{"ts":1779616765,"event":"markers-cleared"}
+{"ts":1779616777,"event":"clearing-with-context","prompt_head":"{\"session_id\":\"e7382a22-7f37-466a-9d8a-d4c5774cc0b4\",\"transcript_path\":\"/Users/devanshasawa/.claude/projects/-Users-devanshasawa-Desktop-expense-tracker/e7382a22-7f37-466a-9d8a-d4c5774cc0b4.jsonl\",\"cwd\":\"/Users/devanshasawa/Desktop/expense-tracker\",\"permission_mode\":\"default\",\"hook_event_name\":\"User"}
+{"ts":1779616777,"event":"markers-cleared"}
+{"ts":1779616781,"event":"clearing-with-context","prompt_head":"{\"session_id\":\"e7382a22-7f37-466a-9d8a-d4c5774cc0b4\",\"transcript_path\":\"/Users/devanshasawa/.claude/projects/-Users-devanshasawa-Desktop-expense-tracker/e7382a22-7f37-466a-9d8a-d4c5774cc0b4.jsonl\",\"cwd\":\"/Users/devanshasawa/Desktop/expense-tracker\",\"permission_mode\":\"default\",\"hook_event_name\":\"User"}
+{"ts":1779616781,"event":"markers-cleared"}
+{"ts":1779616854,"event":"clearing-with-context","prompt_head":"{\"session_id\":\"e7382a22-7f37-466a-9d8a-d4c5774cc0b4\",\"transcript_path\":\"/Users/devanshasawa/.claude/projects/-Users-devanshasawa-Desktop-expense-tracker/e7382a22-7f37-466a-9d8a-d4c5774cc0b4.jsonl\",\"cwd\":\"/Users/devanshasawa/Desktop/expense-tracker\",\"permission_mode\":\"default\",\"hook_event_name\":\"User"}
+{"ts":1779616854,"event":"markers-cleared"}
+{"ts":1779616857,"event":"output-behavior-lint","rule":"never-ask-to-run","turn":"dd79fd75-eec","snippet":"Please run /login · API Error: 401 Invalid authent"}
+{"ts":1779616857,"event":"output-behavior-lint","rule":"never-ask-to-run","turn":"add201ba-87c","snippet":"Please run /login · API Error: 401 Invalid authent"}
+{"ts":1779616857,"event":"output-behavior-lint","rule":"never-ask-to-run","turn":"44d213ef-db0","snippet":"Please run /login · API Error: 401 Invalid authent"}
+{"ts":1779618226,"event":"clearing-with-context","prompt_head":"{\"session_id\":\"e7382a22-7f37-466a-9d8a-d4c5774cc0b4\",\"transcript_path\":\"/Users/devanshasawa/.claude/projects/-Users-devanshasawa-Desktop-expense-tracker/e7382a22-7f37-466a-9d8a-d4c5774cc0b4.jsonl\",\"cwd\":\"/Users/devanshasawa/Desktop/expense-tracker\",\"permission_mode\":\"default\",\"hook_event_name\":\"User"}
+{"ts":1779618226,"event":"markers-cleared"}
